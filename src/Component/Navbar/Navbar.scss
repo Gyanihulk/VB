@@ -1,0 +1,32 @@
+.Appbar {
+  background-color: black;
+  background-image: url("../../Assets/nav-Back.jpg");
+}
+
+
+.header{
+    display: flex;
+    
+     
+        text-align: center;
+    .Heading {
+        display: flex;
+        align-items: center;
+        font-size: 2.5rem;
+        font-family: "Skygraze";
+      }
+}
+.menuButton {
+  left: 10rem;
+}
+
+.navButton {
+  margin-left: 20px;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  color: blueviolet;
+}
+.button {
+  margin-right: 10px;
+}

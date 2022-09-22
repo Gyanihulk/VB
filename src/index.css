@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "CARBON";   
+  src: url("./Assets/fonts/CARBON-DROID.ttf") format('truetype');
+
+}
+
+@font-face {
+  font-family: "Skygraze";
+  font-weight: bold;
+  src: url("p./../Assets/fonts/Skygraze.otf") format("opentype");
+}
