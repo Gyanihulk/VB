@@ -13,6 +13,9 @@
         text-align: center;
         font-size: 2.5rem;
         font-family: "Skygraze";
+        @media(max-width: 600px){
+          font-size: 1.75rem;
+        }
       }
 }
 .menuButton {
